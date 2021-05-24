@@ -3,7 +3,7 @@
   serial: 1
   tasks:
 
-   - name: 'Pausa de 10 segundos ...'
+   - name: 'Pausa...'
      throttle: 1
      pause:
       seconds: 300
