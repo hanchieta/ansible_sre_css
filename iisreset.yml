@@ -1,0 +1,15 @@
+---
+- hosts: all
+  serial: 1
+  tasks:
+
+   - name: 'Pausa de 10 segundos ...'
+     throttle: 1
+     pause:
+      seconds: 300
+
+   - name: 'Executar IISRESET'
+     win_command: iisreset
+     #ansible.windows.win_command: iisreset
+     register: output_ansible
+     throttle: 1
