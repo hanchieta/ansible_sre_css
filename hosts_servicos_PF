@@ -1,0 +1,3 @@
+[windows]
+SERVICOS-PF01 ansible_host=10.128.2.195
+SERVICOS-PF02 ansible_host=10.128.2.171

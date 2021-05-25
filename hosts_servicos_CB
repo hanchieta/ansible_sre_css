@@ -1,0 +1,3 @@
+[windows]
+SERVICOS-CB01 ansible_host=10.128.6.167
+SERVICOS-CB02 ansible_host=10.128.4.194
