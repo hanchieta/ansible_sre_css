@@ -16,12 +16,21 @@
    # GPA.Servicos.Loja.EnviarSms
    # GPA.Servicos.Loja.EnviarPedidoMarketPlace
    # GPA.Servicos.Loja.EnviarLiberarEntregas
-   # GPA.Servicos.Loja.EnviarProxyPagamento
-   # GPA.Servicos.Loja.EnviarProxyPagamento3DS
    # GPA.Servicos.Loja.AtualizarStatusEstornoPagamento
    # GPA.Servicos.Loja.AtualizarVales
    # GPA.Servicos.Loja.ProcessarValeTransacao
    # Cnova.IntegrationMktp.Host.IntegracaoCompraStatus
+   # GPA.Servicos.Loja.EnviarProxyPagamento.0
+   # GPA.Servicos.Loja.EnviarProxyPagamento.1
+   # GPA.Servicos.Loja.EnviarProxyPagamento.2
+   # GPA.Servicos.Loja.EnviarProxyPagamento.3
+   # GPA.Servicos.Loja.EnviarProxyPagamento.4
+   # GPA.Servicos.Loja.EnviarProxyPagamento.5
+   # GPA.Servicos.Loja.EnviarProxyPagamento.6
+   # GPA.Servicos.Loja.EnviarProxyPagamento.7
+   # GPA.Servicos.Loja.EnviarProxyPagamento.8
+   # GPA.Servicos.Loja.EnviarProxyPagamento.9
+   # GPA.Servicos.Loja.EnviarProxyPagamento3DS
    #
    #
    ####################################################################
