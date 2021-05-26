@@ -3,6 +3,28 @@
   name: "STOP/START Serviço"
   vars:
    service: Spooler
+   
+   ############## SERVER:  SERVICOS-<bandeira>01 ######################
+   # 
+   # 
+   # GPA.Servicos.Loja.EnviarPedidosDominioERP
+   # GPA.Servicos.Loja.RecuperarTracking
+   # GPA.Servicos.Loja.RecuperarTrackingMainframe
+   # GPA.Servicos.Loja.AtualizarBannerCarrossel
+   # GPA.Servicos.Loja.EnviarEmail
+   # GPA.Servicos.Loja.EnviarEmailAviseMe
+   # GPA.Servicos.Loja.EnviarSms
+   # GPA.Servicos.Loja.EnviarPedidoMarketPlace
+   # GPA.Servicos.Loja.EnviarLiberarEntregas
+   # GPA.Servicos.Loja.EnviarProxyPagamento
+   # GPA.Servicos.Loja.EnviarProxyPagamento3DS
+   # GPA.Servicos.Loja.AtualizarStatusEstornoPagamento
+   # GPA.Servicos.Loja.AtualizarVales
+   # GPA.Servicos.Loja.ProcessarValeTransacao
+   # Cnova.IntegrationMktp.Host.IntegracaoCompraStatus
+   #
+   #
+   ####################################################################
 
   tasks: 
    - name: 'Parar serviço'
